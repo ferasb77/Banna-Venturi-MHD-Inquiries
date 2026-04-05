@@ -4,9 +4,9 @@ STRICTLY CONFIDENTIAL | AUTHORIZED ACCESS ONLY
 The Banna-Venturi is a patent-pending active Magnetohydrodynamic (MHD) stagnation-point mitigation system. Optimized for Starship-class reentry vehicles, this technology utilizes a localized Lorentz force to achieve a 15cm plasma offset, significantly reducing thermal flux and enabling rapid orbital reusability.
 
 📈 Economic Impact
-•	Operational Efficiency: Projected savings of ~$40,000,000 USD per mission via avoided TPS refurbishment.
+•	Operational Efficiency: Projected savings of Approx. $40,000,000 USD per mission via avoided TPS refurbishment.
 •	IPO Alignment: Designed for integration into the Project Apex 2026 flight manifest.
-•	Revenue Model: 12% Shared-Savings Royalty (~$4.8M/flight) plus tiered implementation fees.
+•	Revenue Model: 12% Shared-Savings Royalty (Approx. $4.8M/flight) plus tiered implementation fees.
 
 ⚖️ Intellectual Property Status
 •	Status: Patent Pending 
