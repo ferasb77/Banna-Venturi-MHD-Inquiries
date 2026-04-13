@@ -13,7 +13,7 @@ The Banna-Venturi is a patent-pending active Magnetohydrodynamic (MHD) stagnatio
 
 •	IPO Alignment: Designed for integration into the Project Apex 2026 flight manifest.
 
-•	Revenue Model: 12% Shared-Savings Royalty (Approx. $4.8M/flight) plus tiered implementation fees.
+•	Revenue Model: $5M/flight Shared-Savings Royalty, plus tiered implementation fees.
 
 
 ⚖️ Intellectual Property Status
